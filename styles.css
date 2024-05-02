@@ -6,7 +6,7 @@
     cursor: 2 2 auto;
   }
   body {
-    background-image: url(../images/backgroundf.jpg); ;
+    background-image: url(../backgroundf.jpg);
     margin: 0;
     a {
       font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
@@ -18,7 +18,7 @@
     }
   
     header {
-      background-image: url(../images/cat.jpg);
+      background-image: url(../cat.jpg);
       background-size: cover;
       opacity: 100px;
       color: rgb(255, 255, 255);
