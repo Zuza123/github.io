@@ -112,7 +112,7 @@
     display: flex; /*Свойство флекс-контейнера*/
     justify-content: space-between; /*Распределение по горизонтали*/
     position: absolute;
-    width: 80%;
+    width: 50%;
 }
 
 .content a{
