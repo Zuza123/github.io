@@ -104,7 +104,7 @@
     background-color: #039;
   }
   .container{
-    max-width: 40%; /*Максимальная ширина от предпросмотра*/
+    max-width: 60%; /*Максимальная ширина от предпросмотра*/
     margin: 0 auto; /*Автоматический размер отступов слева и справа */
 }
 
@@ -112,7 +112,7 @@
     display: flex; /*Свойство флекс-контейнера*/
     justify-content: space-between; /*Распределение по горизонтали*/
     position: absolute;
-    width: 50%;
+    width: 60%;
 }
 
 .content a{
