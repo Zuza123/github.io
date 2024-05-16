@@ -131,7 +131,7 @@
 
 .card{
     max-width: 45%;
-    border: 1px solid black;
+    border: none;
     padding: 10px;
     margin: 10px;
 }
