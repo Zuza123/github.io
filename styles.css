@@ -10,7 +10,7 @@
     margin: 0;}
     a {
       font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-      color: rgb(255, 0, 191);
+      color: rgb(129, 0, 97);
       font-size: larger;
       text-align: center;
       padding: 100px 50px;
@@ -21,7 +21,7 @@
       background-image: url(images/bgg.jpg);
       background-size: cover;
       opacity: 100px;
-      color: rgb(255, 255, 255);
+      color: rgb(59, 0, 47);
       font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
       text-align: center;
       padding: 20px;
