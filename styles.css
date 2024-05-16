@@ -10,7 +10,7 @@
     margin: 0;}
     a {
       font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-      color: rgb(172, 0, 129);
+      color: rgb(255, 0, 191);
       font-size: larger;
       text-align: center;
       padding: 100px 50px;
@@ -18,10 +18,10 @@
     }
   
     header {
-      background-image: url(images/bgg.jpg);
+      background-image: url(images/cat.jpg);
       background-size: cover;
       opacity: 100px;
-      color: rgb(63, 0, 47);
+      color: rgb(255, 255, 255);
       font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
       text-align: center;
       padding: 20px;
@@ -87,8 +87,8 @@
     text-align: center;
   }
   .child {
-    text-align: center;
-    margin: 813px;
+    text-align: left;
+    margin: 0px;
   }
   .label{
     text-align: center;
@@ -139,4 +139,67 @@
 .cards{
     display: flex;
     flex-wrap: wrap;
+}
+
+ 
+
+:root{ 
+  margin: 0; /*Убирает отступы по умолчанию*/ 
+} 
+
+.chik{ 
+  margin: 70px;
+  font-size: 50px; 
+  text-align: left;
+} 
+.ch{ 
+  font-size: 30px;
+  text-align: left;
+} 
+.rov{ 
+  display: flex; 
+} 
+.home-office{ 
+  background-color: rgb(223, 189, 255); 
+} 
+.house{ 
+background-color: none; 
+max-width: 230%; 
+} 
+.house img{ 
+  width: 310% 
+
+} 
+@media(max-width:1024px){ 
+  main.rov{ 
+      flex-direction: column-reverse; 
+  } 
+main p{ 
+  display: none; 
+} 
+}
+#moreee{
+  margin: 100px 20px;
+  text-align: left;
+  font-size: x-large;
+}
+.hoho{
+  width: 95%;
+  margin: 30px;
+}
+.pipi{
+  text-align: left;
+}
+.hihi{
+  width: 14%;
+  height: auto ;
+  margin: -5px;
+}
+
+.footer1{
+  background-color: black;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  color: white;
+  margin: 0px;
+  padding: 100px;
 }
